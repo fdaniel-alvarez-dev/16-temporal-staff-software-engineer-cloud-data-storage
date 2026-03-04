@@ -1,4 +1,4 @@
-# 16-aws-automation-blueprint
+# 16-aws-reliability-governance
 
 A production-minded Database Reliability Engineering toolkit: HA lab, backup/PITR drills, and zero-downtime migration playbooks.
 
